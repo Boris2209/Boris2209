@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 💬 Write me https://t.me/boris_litvinenko
 - 🎸 I play the guitar
 - 🏅 I do sports
--->
