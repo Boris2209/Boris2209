@@ -12,3 +12,4 @@ About me:
 - 💬 Write me https://t.me/boris_litvinenko
 - 🎸 I play the guitar
 - 🏅 I do sports
+- 🚗 I am fond of cars
