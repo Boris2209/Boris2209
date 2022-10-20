@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm <a href="https://vk.com/boris_litvinenko" target="_blank">Boris</a> 
+<h1 align="center">Hi there, I'm <a href="https://vk.com/boris_litvinenko" a target="_blank">Boris</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 About me:
