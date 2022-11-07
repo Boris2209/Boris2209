@@ -5,8 +5,8 @@
 About me:
 
 - 🖥 Programming in Java
-- ⚙️ I work with Spring Boot, Apache Maven, RESTful ...
-- 👨‍🎓 Master's degree student "Software Engineering"
+- ⚙️ I work with Spring Framework (Core, MVC, JDBC, Data JPA, Boot, REST), Hibernate ORM, PostgreSQL
+- 👨‍🎓 I study in a magistracy in the first year "Software Engineering"
 - 🏫 I study at MIREA
 - 📖 Now reading: Spring in Action, 6th Edition
 - 💬 Write me https://t.me/boris_litvinenko
