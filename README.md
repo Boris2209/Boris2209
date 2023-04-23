@@ -4,8 +4,8 @@
 
 About me:
 
-- 🖥 Programming in Java
-- ⚙️ I work with Spring Framework (Core, MVC, JDBC, Data JPA, Boot, REST), Hibernate ORM, PostgreSQL
+- 🖥 Programming in C#
+- ⚙️ I work with ASP.NET
 - 👨‍🎓 I study in a magistracy in the first year "Software Engineering"
 - 🏫 I study at MIREA
 - 📖 Now reading: Spring in Action, 6th Edition
