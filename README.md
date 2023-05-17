@@ -4,8 +4,8 @@
 
 About me:
 
-- 🖥 Programming in C#
-- ⚙️ I work with ASP.NET
+- 🖥 Programming in Java
+- ⚙️ I work with Spring
 - 👨‍🎓 I study in a magistracy in the first year "Software Engineering"
 - 🏫 I study at MIREA
 - 📖 Now reading: Spring in Action, 6th Edition
